@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Joaquina",
+      "email": "maria@gmail.com"
+    },
+    {
+      "name": "Caique Ribeiro",
+      "email": "caique@geolabor.com.br",
+      "id": 3
+    }
+  ]
+}
